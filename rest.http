@@ -1,0 +1,24 @@
+POST https://oibs2.metu.edu.tr/View_Program_Course_Details_64/main.php HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 91
+Content-Type: application/x-www-form-urlencoded
+Cookie: _APP_LOCALE=EN; phpSess_ea22dfe6770c72e051ce7bae39a4f423=D907TwFkL1FBXj6wotACFyuMfREcgetzCwtA9LysoNi3VmbxDATr9IurpLQ4Pel2a9Sb0Y0swoLoSx4om8C50wgox8M4Gsb0MYJy0KkC7yAbnKajDmVMir2BNCUQsC5f; _ga=GA1.3.2091281461.1646183595; _fbp=fb.2.1646186740894.1824800847; phpSess_e7f8a2b66340bd43b00edc2a215826d5=oWNIEtiuVkcCL7BItXDip7rURn0MjEt3Z9QwGfvwduy7lrqIFN0cLS7OFg09EfXWg6ftHMiHu1Qitt34jiCrok2pez6UuRSvtC3chbQzeZ8I7wGrbCmRkleqa0I5Z3DG
+Host: oibs2.metu.edu.tr
+Origin: https://oibs2.metu.edu.tr
+Referer: https://oibs2.metu.edu.tr/View_Program_Course_Details_64/main.php
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Sec-GPC: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36
+
+text_usercode=e253436
+&text_password=**************
+&submit_auth=Sign-in
+&hidden_redir=SyllabusLogin
